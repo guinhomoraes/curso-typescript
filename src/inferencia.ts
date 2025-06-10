@@ -1,0 +1,2 @@
+let nomePessoa:string = "Guilherme";
+
